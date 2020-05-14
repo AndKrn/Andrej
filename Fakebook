@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="Fakebook">
+    <title>Fakebook</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <meta name="keywords" content="HTML, CSS, SmartNinja, Fakebook">
+    <meta name="author" content="AndrejK">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+  <h1>FAKEBOOK<img src="https://www.espreso.rs/data/images/2017/08/11/12/245827_7_ff.jpg?ver=1502448733" height="21px" width="21px"></h1>
+        <img src="https://getdrawings.com/free-icon/person-icon-clipart-65.png" width="300px">
+    <h2>AndrejK</h2>
+        <p><strong>Ime:</strong> Andrej</p>
+        <p><strong>Starost:</strong> 40</p>
+        <p><strong>Kraj:</strong> Ljubljana</p>
+        <p><strong>e-mail:</strong> andrej@fakebook.com</p>
+    <br>
+    <h3>Hobiji</h3>
+        <ul>
+            <li>šport</li>
+            <li>potovanja</li>
+            <li>programiranje :)</li>
+        </ul>
+    <br>
+    <h3>Moje slike</h3>
+        <table>
+            <tr>
+                <td> <img src="https://www.avtokampi.si/slika/smucisce-mokrine-nassfeld-1.jpg" height="80px" width="100px"> </td>
+                <td> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7T1fe0AZbkmUhLZ3UPhpL9r8dBhNMN8YPFuI-fqXirvNOyj48&usqp=CAU" height="80px" width="100px"></td>
+                <td> <img src="https://www.ostanifit.si/wp-content/uploads/2019/05/kako-se-motivirati-za-tek.jpg" height="80px" width="100px"></td>
+            </tr>
+            <tr>
+                <td> <img src="https://modna.si/wp-content/uploads/2017/07/11072017-paris_.jpeg" height="80px" width="100px"> </td>
+                <td> <img src="https://d.newsweek.com/en/full/1561143/amsterdam.webp?w=790&f=b250ec2b74f68a96523fe0c8d1b61bb4" height="80px" width="100px"></td>
+                <td> <img src="https://www.vandraj.si/wp-content/uploads/2018/08/shutterstock_537939037.jpg" height="80px" width="100px"></td>
+            </tr>
+            <tr>
+                <td> <img src="http://www.info-slovenija.info/media/com_jbusinessdirectory/pictures/listings/6786/RAUNALNIKOPROGRAMIRANJE3-1550664899.jpg" height="80px" width="100px"> </td>
+                <td> <img src="https://portal-os.si/wp-content/uploads/sites/15/2018/09/programiranje-ilustracija-324x160.jpg" height="80px" width="100px"></td>
+                <td> <img src="https://www.web-usluge.com/images/web_usluge/blog/programiranje/programski_kod.jpg" height="80px" width="100px"></td>
+            </tr>
+        </table>
+    <hr>
+    <button>Lke</button><span> </span><button>Not Like</button>
+  </body>
+</html>
